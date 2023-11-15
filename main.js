@@ -66,6 +66,6 @@ greet("Aid", "2023");
 remind_name()
 guess_age()
 count()
-// test();
+test();
 end()
 
